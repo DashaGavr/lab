@@ -1,0 +1,5 @@
+C:\Users\Dasha\source\repos\Lab3lib\Lab3lib\bin\Debug\Lab3lib.dll
+C:\Users\Dasha\source\repos\Lab3lib\Lab3lib\bin\Debug\Lab3lib.pdb
+C:\Users\Dasha\source\repos\Lab3lib\Lab3lib\obj\Debug\Lab3lib.csprojAssemblyReference.cache
+C:\Users\Dasha\source\repos\Lab3lib\Lab3lib\obj\Debug\Lab3lib.dll
+C:\Users\Dasha\source\repos\Lab3lib\Lab3lib\obj\Debug\Lab3lib.pdb
