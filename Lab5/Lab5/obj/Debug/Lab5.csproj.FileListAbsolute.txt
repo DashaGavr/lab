@@ -1,0 +1,10 @@
+C:\Users\Dasha\source\repos\Lab5\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\Dasha\source\repos\Lab5\Lab5\bin\Debug\Lab5.exe
+C:\Users\Dasha\source\repos\Lab5\Lab5\bin\Debug\Lab5.pdb
+C:\Users\Dasha\source\repos\Lab5\Lab5\bin\Debug\MatrixCSP.dll
+C:\Users\Dasha\source\repos\Lab5\Lab5\bin\Debug\MatrixCSP.pdb
+C:\Users\Dasha\source\repos\Lab5\Lab5\obj\Debug\Lab5.csprojAssemblyReference.cache
+C:\Users\Dasha\source\repos\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+C:\Users\Dasha\source\repos\Lab5\Lab5\obj\Debug\Lab5.csproj.CopyComplete
+C:\Users\Dasha\source\repos\Lab5\Lab5\obj\Debug\Lab5.exe
+C:\Users\Dasha\source\repos\Lab5\Lab5\obj\Debug\Lab5.pdb

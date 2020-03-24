@@ -1,0 +1,6 @@
+C:\Users\Dasha\source\repos\Lab5\MatrixCSP\bin\Release\MatrixCSP.dll
+C:\Users\Dasha\source\repos\Lab5\MatrixCSP\bin\Release\MatrixCSP.pdb
+C:\Users\Dasha\source\repos\Lab5\MatrixCSP\obj\Release\MatrixCSP.csprojAssemblyReference.cache
+C:\Users\Dasha\source\repos\Lab5\MatrixCSP\obj\Release\MatrixCSP.csproj.CoreCompileInputs.cache
+C:\Users\Dasha\source\repos\Lab5\MatrixCSP\obj\Release\MatrixCSP.dll
+C:\Users\Dasha\source\repos\Lab5\MatrixCSP\obj\Release\MatrixCSP.pdb

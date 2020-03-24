@@ -1,0 +1,9 @@
+﻿  matrix.cpp
+  MatrixCPP.cpp
+  matrix_block.cpp
+C:\Users\Dasha\source\repos\Lab5\MatrixCPP\matrix_block.cpp(192,16): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Dasha\source\repos\Lab5\MatrixCPP\matrix_block.cpp(199,20): warning C4018:  <: несоответствие типов со знаком и без знака
+  Создание кода...
+C:\Users\Dasha\source\repos\Lab5\MatrixCPP\matrix_block.cpp(337,6): warning C4101:  j: неиспользованная локальная переменная
+C:\Users\Dasha\source\repos\Lab5\MatrixCPP\matrix_block.cpp(31): warning C4715:  vector_block::operator(): значение возвращается не при всех путях выполнения
+  MatrixCPP.vcxproj -> C:\Users\Dasha\source\repos\Lab5\Debug\MatrixCPP.dll

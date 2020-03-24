@@ -1,0 +1,7 @@
+﻿  matrix.cpp
+  matrix_block.cpp
+C:\Users\Dasha\source\repos\Lab5\MatrixCPP\matrix_block.cpp(191,16): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Dasha\source\repos\Lab5\MatrixCPP\matrix_block.cpp(198,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Dasha\source\repos\Lab5\MatrixCPP\matrix_block.cpp(336,6): warning C4101:  j: неиспользованная локальная переменная
+MSVCRT.lib(exe_main.obj) : error LNK2001: неразрешенный внешний символ "_main"
+C:\Users\Dasha\source\repos\Lab5\Release\MatrixCPP.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
